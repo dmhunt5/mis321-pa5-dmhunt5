@@ -1,0 +1,14 @@
+C:\Users\david\Documents\Projects\Professional\MISFall23\mis321-pa5-dmhunt5\bin\Debug\net7.0\mis321-pa5-dmhunt5.exe
+C:\Users\david\Documents\Projects\Professional\MISFall23\mis321-pa5-dmhunt5\bin\Debug\net7.0\mis321-pa5-dmhunt5.deps.json
+C:\Users\david\Documents\Projects\Professional\MISFall23\mis321-pa5-dmhunt5\bin\Debug\net7.0\mis321-pa5-dmhunt5.runtimeconfig.json
+C:\Users\david\Documents\Projects\Professional\MISFall23\mis321-pa5-dmhunt5\bin\Debug\net7.0\mis321-pa5-dmhunt5.dll
+C:\Users\david\Documents\Projects\Professional\MISFall23\mis321-pa5-dmhunt5\bin\Debug\net7.0\mis321-pa5-dmhunt5.pdb
+C:\Users\david\Documents\Projects\Professional\MISFall23\mis321-pa5-dmhunt5\obj\Debug\net7.0\mis321-pa5-dmhunt5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Documents\Projects\Professional\MISFall23\mis321-pa5-dmhunt5\obj\Debug\net7.0\mis321-pa5-dmhunt5.AssemblyInfoInputs.cache
+C:\Users\david\Documents\Projects\Professional\MISFall23\mis321-pa5-dmhunt5\obj\Debug\net7.0\mis321-pa5-dmhunt5.AssemblyInfo.cs
+C:\Users\david\Documents\Projects\Professional\MISFall23\mis321-pa5-dmhunt5\obj\Debug\net7.0\mis321-pa5-dmhunt5.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Projects\Professional\MISFall23\mis321-pa5-dmhunt5\obj\Debug\net7.0\mis321-pa5-dmhunt5.dll
+C:\Users\david\Documents\Projects\Professional\MISFall23\mis321-pa5-dmhunt5\obj\Debug\net7.0\refint\mis321-pa5-dmhunt5.dll
+C:\Users\david\Documents\Projects\Professional\MISFall23\mis321-pa5-dmhunt5\obj\Debug\net7.0\mis321-pa5-dmhunt5.pdb
+C:\Users\david\Documents\Projects\Professional\MISFall23\mis321-pa5-dmhunt5\obj\Debug\net7.0\mis321-pa5-dmhunt5.genruntimeconfig.cache
+C:\Users\david\Documents\Projects\Professional\MISFall23\mis321-pa5-dmhunt5\obj\Debug\net7.0\ref\mis321-pa5-dmhunt5.dll
